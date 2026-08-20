@@ -7,7 +7,7 @@
     "import": "./main.js",
     "require": "./build/main.cjs"
   },
-  "version": "0.1.7",
+  "version": "0.1.7-lineaje-01",
   "description": "Javascript library to work with circomlib",
   "scripts": {
     "test": "mocha",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iden3/circomlibjs.git"
+    "url": "https://github.com/lineaje-labs-gos/iden3-circomlibjs"
   },
   "keywords": [
     "circom",
@@ -29,6 +29,12 @@
   ],
   "author": "Jordi Baylina",
   "license": "GPL-3.0",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/iden3/circomlibjs/issues"
   },
