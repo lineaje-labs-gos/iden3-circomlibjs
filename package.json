@@ -52,9 +52,11 @@
     "ffjavascript": "^0.2.45"
   },
   "overrides": {
-    "ws": ">=8.21.3"
+    "ws": ">=8.21.3",
+    "elliptic": ">=6.6.1"
   },
   "resolutions": {
-    "ws": ">=8.21.3"
+    "ws": ">=8.21.3",
+    "elliptic": ">=6.6.1"
   }
 }
